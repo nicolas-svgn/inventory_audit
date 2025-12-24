@@ -1,0 +1,31 @@
+famille,Désignation,Dépréciation du stock,Articles stockés,compte d'achat,compte de vente,Code TVA,TVA,Dépôt
+ACO,pièces et composants de production,Oui,OUI,601100,,,20,Réception
+AFO de - €500,Outillage,Oui,NON,606300,,0,20,Outillage
+AIT,Achat informatique,non,NON,606410,,,20,POK-IT
+AM1,Matière 1e,Oui,OUI,601100,,,20,POK- MP
+AOU + de €500,Outillage,Oui,NON,215420,.....,4,20,
+PF,Produit Finis,Oui,OUI,,701900,,20,Expéditions
+ASE,Achat de Services,non,NON,628800,N/A,0,20,N/A
+ASI,maintenance et entretien du site,,NON,615000,,,20,N/A
+AST,Sous -traitance production,Oui,OUI,611000,701900,0,20,Commence par un dépôt par SST
+AVE,Achat et maintenance des véhicules,,NON,615550???,,,20,N/A
+DOC,Documentation,non,NON,618000,,,20,N/A
+EMB,Emballage/ déballage,non,Emilie,602600,701900,,20,
+FRI,Frais supplémentaire,non,NON,608100,706900,,20,N/A
+INV,investissement,,NON,215420,775200,,20,N/A
+PF,Produits finis sur site,,OUI,,701900,,20,Expéditions
+POR,Port,non,NON,624100,706900,,20,N/A
+PSF,Produits SemiFinis,?,OUI,601000,701900,,20,Voir sous famille
+PUB,objet publicitaire,,NON,623200,,,20,Expéditions
+TAX,Taxes,,NON,635000,,,20,N/A
+TRF,Transfert de charge,non,NON,,791100,,20,N/A
+APR,Prototype,non,OUI,601100,,,20,BE
+EPI,EPI,non,NON,606300,N/A,0,20,Qualité
+MAR,Marchandises,oui,OUI,607000,,0,20,Expéditions
+YYY,articles de projets,?,NON,231500,,4,20,Projet
+SAV,Service Après vente,?,OUI,N/A,706400,4,20,SAV
+ACZ,Achat de consommables de production 606300,Emilie,NON,606300,N/A,0,20,"""Maintenance Ateliers """
+XXX,ARTICLE ACHETE FABRIQUE,,OUI,601100,701900,0,20,RECEPTION
+VSE,VENTE DE SERVICE,non,NON,N/A,706000,0,20,N/A
+ACY,Achat de consommables HORS production 606300,NON,NON,606300,N/A,0,20,N/A
+MO,Main d'oeuvre (ARTICLES DE TEMPS DE,non,NON,601100,706100 (OKM),0,20,N/A

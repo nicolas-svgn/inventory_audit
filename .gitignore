@@ -1,0 +1,17 @@
+# Environnements virtuels
+venv/
+.venv/
+env/
+bin/
+lib/
+*.egg-info/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Système
+.DS_Store
+.vscode/
+.idea/
