@@ -7,7 +7,7 @@ DATA_DIR = os.path.join(BASE_DIR, 'data')
 OUTPUT_DIR = os.path.join(BASE_DIR, 'output')
 
 def main():
-    print(f"--- Démarrage de l'audit (Python 3.10.12) ---")
+    print(f"--- Démarrage de l'audit ---")
     
     # Création du dossier output s'il n'existe pas
     if not os.path.exists(OUTPUT_DIR):
